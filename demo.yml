@@ -1,2 +1,2 @@
-info:
-  test:  "my name is liukuijie"
+server:
+  port: 6001
